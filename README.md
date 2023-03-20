@@ -1,4 +1,5 @@
 ### Welcome 👋
+This is my personal github and not associated with my work related github. I'll be using this profile for expoloration and side projects.
 As a multi-disciplinary design and engineering professional, I've helped level up the game for 100+ companies worldwide. My expertise in e-commerce, front-end engineering, and lead funnel architecture has helped these companies reach new heights and achieve their goals. I've had the privilege of bringing the visions of fortune 500 companies like Marriot and Walgreens to life, and I'm committed to following my projects past the final development stage to ensure long-term success.
 
 I'm passionate about my work and it drives me every day. Check out The Vice Solutions, my app and web development company, to see some of my latest projects. In my spare time, I also enjoy making music, traveling, and supporting black entrepreneurship and tech. You can learn more about my interests on my blog, [Kromed Out](https://KromedOut.com).
