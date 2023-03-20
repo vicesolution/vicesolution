@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+As a multi-disciplinary design and engineering professional, I've helped level up the game for 100+ companies worldwide. My expertise in e-commerce, front-end engineering, and lead funnel architecture has helped these companies reach new heights and achieve their goals. I've had the privilege of bringing the visions of fortune 500 companies like Marriot and Walgreens to life, and I'm committed to following my projects past the final development stage to ensure long-term success.
 
+I'm passionate about my work and it drives me every day. Check out The Vice Solutions, my app and web development company, to see some of my latest projects. In my spare time, I also enjoy making music, traveling, and supporting black entrepreneurship and tech. You can learn more about my interests on my blog, [Kromed Out](https://KromedOut.com).
+
+If you're looking to level up your business, let's talk. I have experience working with Wordpress, Shopify, React, HTML, CSS, Javascript, and other code languages and systems.
 <!--
 **vicesolution/vicesolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
